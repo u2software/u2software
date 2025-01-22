@@ -23,7 +23,6 @@
 
 - ⚡ Fun fact **Our team loves blending creativity with technology—some of our best ideas have come from spontaneous brainstorming sessions over coffee!**
 
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
